@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[ismage]]></title>
   <link href="http://ismage.github.io/atom.xml" rel="self"/>
   <link href="http://ismage.github.io/"/>
-  <updated>2014-09-22T00:04:24+09:00</updated>
+  <updated>2014-09-22T09:34:29+09:00</updated>
   <id>http://ismage.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[ismage]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
